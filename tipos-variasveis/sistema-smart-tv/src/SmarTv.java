@@ -9,10 +9,10 @@ public void mudarCanal (int novoCanal){
     
 
 public void aumentarCanal(){
-    canal++
+    canal++;
 }
 public void diminurCanal(){
-    canal--
+    canal--;
 }
 
 public void aumentarVolume(){
